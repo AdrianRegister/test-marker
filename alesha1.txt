@@ -1,0 +1,44 @@
+	
+1. Please Select
+refund
+2. Please Select
+discount
+3. Please Select
+exchange
+4. Please Select
+receipt
+5. Please Select
+promotions
+ 	
+6. Please Select
+many
+7. Please Select
+several
+8. Please Select
+plenty
+9. Please Select
+many
+10. Please Select
+lot
+	
+11. R
+Reliable
+12. J
+Jealous
+13. S
+Sensitive
+14. L
+Loyal
+15. T
+Thoughtful
+ 	
+16. Type your answer
+look
+17. Type your answer
+watch
+18. Type your answer
+disappear
+19. Type your answer
+disagree
+20. Type your answer
+unkind
