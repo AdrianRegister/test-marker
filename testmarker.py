@@ -1,7 +1,7 @@
 fname_answers = 'answers1.txt'
 fhand_answers = open(fname_answers)
 
-fname_student = 'alex1.txt'
+fname_student = 'ainhoa1.txt'
 fhand_student = open(fname_student)
 
 answers = {}
